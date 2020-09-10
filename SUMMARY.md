@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introducción](README.md)
 * [About this course](about-this-course.md)
 * [Lessons](lessons/README.md)
   * [Lesson 1](lessons/lesson.md)
