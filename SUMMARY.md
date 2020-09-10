@@ -1,7 +1,13 @@
 # Table of contents
 
 * [Introducción](README.md)
-* [About this course](about-this-course.md)
+* [Paso a Paso](paso-a-paso/README.md)
+  * [Paso 1](paso-a-paso/paso-1.md)
+  * [Paso 2](paso-a-paso/paso-2.md)
+  * [Paso 3](paso-a-paso/paso-3.md)
+  * [Paso 4](paso-a-paso/paso-4.md)
+  * [Paso 5](paso-a-paso/paso-5.md)
+* [Más sobre este curso](mas-sobre-este-curso.md)
 * [Lessons](lessons/README.md)
   * [Lesson 1](lessons/lesson.md)
   * [Lesson 2](lessons/lesson-1.md)
