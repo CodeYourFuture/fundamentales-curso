@@ -10,7 +10,9 @@ description: >-
 
 #### Puedes realizar estos pasos en tu teléfono inteligente, no es necesario tener acceso a una computadora.
 
+{% hint style="info" %}
 **Nota:** Este paso es opcional para los aplicantes que tienen acceso a una computadora. Recomendamos a todos los aplicantes que practiquen completando los tutoriales de HTML y CSS
+{% endhint %}
 
 * Utiliza el siguiente enlace y descarga la aplicación SoloLearn. [https://sololearn.com](https://sololearn.com/)
 * Asegúrate de tener tu sesión iniciada cada vez que trabajes en SoloLearn, de lo contrario tu progreso no podrá ser guardado.
