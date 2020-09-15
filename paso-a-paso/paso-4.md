@@ -28,5 +28,3 @@ description: >-
 * La página contiene un formulario
 * La página contiene un video
 
-
-
