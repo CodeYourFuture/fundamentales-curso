@@ -13,13 +13,13 @@ description: >-
 * Este paso será evaluado, asegúrate de completarlo demostrando tus mejores habilidades.
 * Te recomendamos leer el documento guía de páginas web de CYF [AQUÍ](https://docs.google.com/presentation/d/1WlPrmTLsj8KWElBzV-QXjihmSknZe8HODX6SKc_JfIM/edit#slide=id.g6597527f42_0_9)
 * Asegurate que tu página incluya las pruebas \(tal como se explica en la guía anterior\)
-* Por favor ¡no copies el código HTML/CSS de la página de ejemplo de FCC!
+* Por favor ¡no copies el código HTML/CSS de la página de ejemplo de FreeCodeCamp!
 * Cuando termines el reto, copia y pega el link de tu página web en el campo predispuesto abajo y presiona el botón ‘Enviar’.
 
 ### **Puntos de retroalimentación**
 
 * La página incluye un script de pruebas \(como se explica en la guía\)
-* El código HTML/CSS no es una copia del ejemplo de FCC
+* El código HTML/CSS no es una copia del ejemplo de FreeCodeCamp
 * Al menos un link en tu página web se dirige a un sitio web externo.
 * La página contiene CSS
 * La página contiene un encabezado o header

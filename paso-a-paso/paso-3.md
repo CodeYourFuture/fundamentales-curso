@@ -1,7 +1,7 @@
 ---
 description: >-
   Este paso te reta a construir tu propia página web usando las habilidades que
-  aprendiste en los tutoriales.
+  aprendiste en los tutoriales anteriores.
 ---
 
 # Paso 3
