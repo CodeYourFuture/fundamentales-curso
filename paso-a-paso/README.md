@@ -8,5 +8,11 @@ Para completar tu aplicación a Code Your Future debes completar una serie de 5 
 
 Si tienes alguna duda sobre los pasos a desarrollar, tendremos un canal habilitado para resolver dudas y brindarte la guía necesaria para continuar.
 
-INDICAR MEDIOS DE CONTACTO
+Unete a nuestra comunidad en **Slack** y resuelve tus dudas.
+
+Ingresa al [aquí](https://join.slack.com/share/zt-hrlskfk6-uZy6R0~1sydtc6FAQXLhZw) y sigue estos [pasos](https://res.cloudinary.com/dargjxuh5/image/upload/v1601511679/cyf/steps_signin_slack_cyf_nc8hpl.png)
+
+También puedes contactarnos via correo electrónico: [colombia@codeyourfuture.io](mailto:colombia@codeyourfuture.io)
+
+
 
