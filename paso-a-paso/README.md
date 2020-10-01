@@ -10,7 +10,7 @@ Si tienes alguna duda sobre los pasos a desarrollar, tendremos un canal habilita
 
 Unete a nuestra comunidad en **Slack** y resuelve tus dudas.
 
-Ingresa al [aquí](https://join.slack.com/share/zt-hrlskfk6-uZy6R0~1sydtc6FAQXLhZw) y sigue estos [pasos](https://res.cloudinary.com/dargjxuh5/image/upload/v1601511679/cyf/steps_signin_slack_cyf_nc8hpl.png)
+Ingresa al [aquí](https://join.slack.com/share/zt-hrlskfk6-uZy6R0~1sydtc6FAQXLhZw) y sigue estos [pasos](https://res.cloudinary.com/dargjxuh5/image/upload/v1601512231/cyf/steps_signin_slack_cyf_eioap8.png)
 
 También puedes contactarnos via correo electrónico: [colombia@codeyourfuture.io](mailto:colombia@codeyourfuture.io)
 
