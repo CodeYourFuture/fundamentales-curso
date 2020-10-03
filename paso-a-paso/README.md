@@ -10,7 +10,7 @@ Si tienes alguna duda sobre los pasos a desarrollar, tendremos un canal habilita
 
 Unete a nuestra comunidad en **Slack** y resuelve tus dudas.
 
-Ingresa al [aquí](https://join.slack.com/share/zt-hrlskfk6-uZy6R0~1sydtc6FAQXLhZw) y sigue estos [pasos](https://res.cloudinary.com/dargjxuh5/image/upload/v1601512231/cyf/steps_signin_slack_cyf_eioap8.png)
+Ingresa a [aquí](https://cyf-introtocoding.slack.com/join/shared_invite/zt-cfw4r6s2-TP0Mf5515RIc5uhzaTXLSw#/) y luego busca el canal **\#medellin-intro-coding**.
 
 También puedes contactarnos via correo electrónico: [colombia@codeyourfuture.io](mailto:colombia@codeyourfuture.io)
 
